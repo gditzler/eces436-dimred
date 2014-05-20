@@ -8,11 +8,12 @@ biom_fp = "../data/study_550_closed_reference_otu_table_feces.biom"
 map_fp = "../data/mapping_feces.txt"
 label_fp = "labels.txt"
 data_fp = "data.txt"
+phenotype = "SEX"
 
 def main():
   data, sample_ids, otus_names = bmu.load_biom(biom_fp)
   meta_data = bmu.load_map(map_fp)
-  phenotype_ids = utils.return_phenotypes(sample_ids, meta_data, "SEX")
+  phenotype_ids = utils.return_phenotypes(sample_ids, meta_data, phenotype)
   write_labels(phenotype_ids)
   write_data(data)
   return None 
