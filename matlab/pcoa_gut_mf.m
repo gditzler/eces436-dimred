@@ -1,7 +1,10 @@
+% run pcoa on study 550, but only on the samples collected from the gut
+% microbiome. label the sex of the sample. 
 clc;
 clear;
 close all;
 
+% add the fathom toolbox to your path 
 addpath('Fathom/')
 
 load data.txt
