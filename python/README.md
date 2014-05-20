@@ -9,11 +9,11 @@
 
 # mds output 
 
-![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/mds-output.png)
+![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/mds-ouput.png)
 
 
 # pca output 
 
-![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/pca-output.png)
-![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/lda-output.png)
+![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/pca-ouput.png)
+![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/lda-ouput.png)
  
