@@ -8,6 +8,8 @@ The [Fathom](http://www.marine.usf.edu/user/djones/matlab/matlab.html) toolbox f
 
 * [Download](http://www.marine.usf.edu/user/djones/dnload/FTM.zip)
 
+Add the Fathom toolbox contents to `matlab/Fathom/`
+
 # Python
 
 The Python scripts require that you have several commonly used dependencies installed if you want to run the code. We are not going to spend class time installing the programs; however, if you need help outside of the classroom installing the software, I would be more than happy to help (offer only valid for Linux and OS X users). 
