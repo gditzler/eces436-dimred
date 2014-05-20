@@ -14,6 +14,6 @@
 
 # pca output 
 
-![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/pca-ouput.png)
-![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/lda-ouput.png)
+![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/pca-iris.png)
+![alt tag](https://raw.githubusercontent.com/gditzler/eces436-dimred/master/python/lda-iris.png)
  
