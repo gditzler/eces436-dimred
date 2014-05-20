@@ -1,6 +1,6 @@
 # About
 
-This repository contains a collection of Matlab and Python scripts for implementing dimensionality reductions. The purpose of this code is to: (a) demonstrate new software tools for pattern recognition and machine learning in Python, (b) demonstrate manipulations of biological data formats in Python, (c) implement basic multi-purpose modules, and (d) provide you with some code to accompony the lectures on dimensionality reduction. For the Python portion of this section, we focus on using dimensionality reduction for biological data formats (mainly metagenomic data). The Matlab scripts are a little more general and use some functions that are not built into Matlab. 
+This repository contains a collection of Matlab and Python scripts for implementing dimensionality reductions. The purpose of this code is to: (a) demonstrate new software tools for pattern recognition and machine learning in Python, (b) demonstrate manipulations of biological data formats in Python, (c) implement basic multi-purpose modules, and (d) provide you with some code to accompany the lectures on dimensionality reduction. For the Python portion of this section, we focus on using dimensionality reduction for biological data formats (mainly metagenomic data). The Matlab scripts are a little more general and use some functions that are not built into Matlab. 
 
 # Matlab: The Fathom Toolbox 
 
