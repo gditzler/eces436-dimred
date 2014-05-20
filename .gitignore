@@ -1,3 +1,5 @@
 matlab/Fathom/
 *.swp
-
+*.pyc
+.DS_Store
+*.m~
