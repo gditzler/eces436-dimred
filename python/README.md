@@ -5,4 +5,15 @@
 * `demo-mds.py` - This script implements MDS on `study 550` from the [Earth Microbiome Project](http://www.earthmicrobiome.org/). 
 * `demo-pca.py` - This script demonstrates PCA and LDA on the Fisher Iris data. 
 * `README.md` - You're reading it right now!
-* `utils.py` - This module contains several functions that I used several times, so I put them into a single Python file to keep the repo clean. 
+* `utils.py` - This module contains several functions that I used several times, so I put them into a single Python file to keep the repo clean.
+
+# mds output 
+
+![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/mds-output.png)
+
+
+# pca output 
+
+![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/pca-output.png)
+![alt tag](https://raw.github.com/gditzler/eces436-dimred/master/python/lda-output.png)
+ 
