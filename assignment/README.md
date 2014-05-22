@@ -37,5 +37,5 @@ You should not run commands on any of the login nodes of proteus and you run the
 # Part 2 - Performing PCoA and plotting the results 
 
 * Using the result from `Part 1`, perform PCoA using the Hellinger and Bray-Curtis distances for each of the four csv files. 
-* Plot your results in 2D.
+* Plot your results in 2D. Label the samples by the sex of the individuals for each of the sample sites. 
 
