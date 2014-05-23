@@ -36,11 +36,8 @@ If everything worked, this should print `1.8.1`
 
 You should not run commands on any of the login nodes of proteus and you run the risk of having the admins cancel your programs if they see you doing this. Run all commands using the `qsub` command.
 
-* Write a shell script to split the biom files (i.e., OTU table) grouped by `COMMON_SAMPLE_SITE`. There is a QIIME script to do this; however, you will need to read the documentation to find it. 
-* Submit your job to proteus. You should have four map and biom files if your script worked correctly.
 * Use `matlab/biom2matlab.py` to convert the four biom files to csv files. Let the `labels` be the gender of the individual.  
 
-Hints: Make sure you add your group before submitting to `qsub`. Use `qstat` to check the status of your jobs.  
 
 # Part 2 - Performing PCoA and plotting the results 
 
