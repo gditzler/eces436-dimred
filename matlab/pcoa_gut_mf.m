@@ -10,14 +10,14 @@ addpath('Fathom/')
 load data.txt
 labels_stng = importdata('labels.txt');
 
-u = unique(labels_stng);
-for n = 1:length(labels_stng)
-  if strcmp(labels_stng{n}, 'male')
-    labels(n) = 1;
-  else
-    labels(n) = 2;
-  end
-end
+[u,labels,keys] = unique(labels_stng);
+%for n = 1:length(labels_stng)
+%  if strcmp(labels_stng{n}, 'male')
+%    labels(n) = 1;
+%  else
+%    labels(n) = 2;
+%  end
+%end
 
 dis = f_dis(data, 'hel');
 result = f_pcoa(dis);
